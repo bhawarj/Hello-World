@@ -1,6 +1,6 @@
 ## Hello-World
 Sample
-hello appy. how are you.
+hello bhawar. how are you.
 
 this changes are for learning purpose.
 
