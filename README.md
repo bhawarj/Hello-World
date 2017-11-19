@@ -1,4 +1,7 @@
-# Hello-World
-Sfample
+## Hello-World
+Sample
 hello appy. how are you.
-This is original file.
+
+this changes are for learning purpose.
+
+
