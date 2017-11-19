@@ -1,7 +1,6 @@
 ## Hello-World
 Sample
 hello appy. how are you.
-
-this changes are for learning purpose.
-
+i am good
+this changes are for learning purpose of the only branch that is available.
 
